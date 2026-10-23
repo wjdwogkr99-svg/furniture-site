@@ -331,5 +331,225 @@
     "image": "assets/ekenaset.jpg",
     "imageSource": "https://www.ikea.com/fr/fr/images/products/ekenaeset-fauteuil-motif-chene-kilanda-beige-clair__1489627_pe1003901_s5.jpg",
     "imageNote": "국가별 판매 페이지의 동일 모델 참고 사진. 치수·가격은 한국 판매 사양 기준."
+  },
+  {
+    "id": "alefjaell",
+    "name": "ALEFJÄLL",
+    "ko": "알레피엘",
+    "brand": "IKEA",
+    "type": "chair",
+    "price": 299000,
+    "currency": "KRW",
+    "height": [
+      450,
+      560
+    ],
+    "depth": [
+      420,
+      420
+    ],
+    "seatWidth": 510,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "source": "https://www.ikea.com/kr/ko/p/alefjaell-office-chair-grann-beige-60320225/",
+    "desc": "그란 베이지",
+    "note": "한국 공식 치수표의 좌면 높이와 깊이를 비교합니다. 너비·팔걸이·착석감은 별도로 확인하세요. 좌면 깊이 조절 기능이 있어도 수치 범위가 확인되지 않아 치수표의 단일 깊이만 비교합니다.",
+    "verifiedAt": "2026-10-23",
+    "article": "60320225",
+    "image": "assets/alefjaell.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/alefjaell-office-chair-grann-beige__0724710_pe734592_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다."
+  },
+  {
+    "id": "jaervfjaellet",
+    "name": "JÄRVFJÄLLET",
+    "ko": "예르브피엘레트",
+    "brand": "IKEA",
+    "type": "chair",
+    "price": 299000,
+    "currency": "KRW",
+    "height": [
+      450,
+      560
+    ],
+    "depth": [
+      460,
+      460
+    ],
+    "seatWidth": 520,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "source": "https://www.ikea.com/kr/ko/p/jaervfjaellet-office-chair-with-armrests-grann-white-20521853/",
+    "desc": "그란 화이트",
+    "note": "한국 공식 치수표의 좌면 높이와 깊이를 비교합니다. 너비·팔걸이·착석감은 별도로 확인하세요. 좌면 깊이 조절 기능이 있어도 수치 범위가 확인되지 않아 치수표의 단일 깊이만 비교합니다.",
+    "verifiedAt": "2026-10-23",
+    "article": "20521853",
+    "image": "assets/jaervfjaellet.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/jaervfjaellet-office-chair-with-armrests-grann-white__1078845_pe857303_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다."
+  },
+  {
+    "id": "styrspel",
+    "name": "STYRSPEL",
+    "ko": "스튀르스펠",
+    "brand": "IKEA",
+    "type": "chair",
+    "price": 299000,
+    "currency": "KRW",
+    "height": [
+      480,
+      590
+    ],
+    "depth": [
+      470,
+      470
+    ],
+    "seatWidth": 500,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "source": "https://www.ikea.com/kr/ko/p/styrspel-gaming-chair-dark-grey-grey-00522033/",
+    "desc": "다크그레이/그레이",
+    "note": "한국 공식 치수표의 좌면 높이와 깊이를 비교합니다. 너비·팔걸이·착석감은 별도로 확인하세요. 좌면 깊이 조절 기능이 있어도 수치 범위가 확인되지 않아 치수표의 단일 깊이만 비교합니다.",
+    "verifiedAt": "2026-10-23",
+    "article": "00522033",
+    "image": "assets/styrspel.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/styrspel-gaming-chair-dark-grey-grey__1115362_pe872046_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다."
+  },
+  {
+    "id": "bleckberget",
+    "name": "BLECKBERGET",
+    "ko": "블레크베리에트",
+    "brand": "IKEA",
+    "type": "chair",
+    "price": 89900,
+    "currency": "KRW",
+    "height": [
+      470,
+      590
+    ],
+    "depth": [
+      440,
+      440
+    ],
+    "seatWidth": 470,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "source": "https://www.ikea.com/kr/ko/p/bleckberget-swivel-chair-klovsta-white-grey-60573270/",
+    "desc": "클로브스타 화이트/그레이",
+    "note": "한국 공식 치수표의 좌면 높이와 깊이를 비교합니다. 너비·팔걸이·착석감은 별도로 확인하세요.",
+    "verifiedAt": "2026-10-23",
+    "article": "60573270",
+    "image": "assets/bleckberget.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/bleckberget-swivel-chair-klovsta-white-grey__1305680_pe939572_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다."
+  },
+  {
+    "id": "hattefjaell",
+    "name": "HATTEFJÄLL",
+    "ko": "하테피엘",
+    "brand": "IKEA",
+    "type": "chair",
+    "price": 249000,
+    "currency": "KRW",
+    "height": [
+      460,
+      560
+    ],
+    "depth": [
+      400,
+      400
+    ],
+    "seatWidth": 500,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "source": "https://www.ikea.com/kr/ko/p/hattefjaell-office-chair-with-armrests-gunnared-beige-white-40538956/",
+    "desc": "군나레드 베이지/화이트",
+    "note": "한국 공식 치수표의 좌면 높이와 깊이를 비교합니다. 너비·팔걸이·착석감은 별도로 확인하세요. 좌면 깊이 조절 기능이 있어도 수치 범위가 확인되지 않아 치수표의 단일 깊이만 비교합니다.",
+    "verifiedAt": "2026-10-23",
+    "article": "40538956",
+    "image": "assets/hattefjaell.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/hattefjaell-office-chair-with-armrests-gunnared-beige-white__1019089_pe831297_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다."
+  },
+  {
+    "id": "renberget",
+    "name": "RENBERGET",
+    "ko": "렌베리에트",
+    "brand": "IKEA",
+    "type": "chair",
+    "price": 119000,
+    "currency": "KRW",
+    "height": [
+      440,
+      550
+    ],
+    "depth": [
+      430,
+      430
+    ],
+    "seatWidth": 480,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "source": "https://www.ikea.com/kr/ko/p/renberget-swivel-chair-bomstad-black-20493548/",
+    "desc": "봄스타드 블랙",
+    "note": "한국 공식 치수표의 좌면 높이와 깊이를 비교합니다. 너비·팔걸이·착석감은 별도로 확인하세요.",
+    "verifiedAt": "2026-10-23",
+    "article": "20493548",
+    "image": "assets/renberget.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/renberget-swivel-chair-bomstad-black__1020135_pe831794_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다."
+  },
+  {
+    "id": "mittzon",
+    "name": "MITTZON",
+    "ko": "밋손",
+    "brand": "IKEA",
+    "type": "table",
+    "price": 169000,
+    "currency": "KRW",
+    "height": [
+      650,
+      850
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "source": "https://www.ikea.com/kr/ko/p/mittzon-desk-white-s59525845/",
+    "desc": "화이트 120x60 cm",
+    "note": "수동 높이 조절 650–850 mm. 하부 무릎·허벅지 여유를 별도로 확인하세요.",
+    "verifiedAt": "2026-10-23",
+    "article": "59525845",
+    "image": "assets/mittzon.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/mittzon-desk-white__1205998_pe907332_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다.",
+    "otherText": "1200 × 600 mm"
+  },
+  {
+    "id": "trotten-fixed",
+    "name": "TROTTEN",
+    "ko": "트로텐",
+    "brand": "IKEA",
+    "type": "table",
+    "price": 199000,
+    "currency": "KRW",
+    "height": [
+      750,
+      750
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "source": "https://www.ikea.com/kr/ko/p/trotten-desk-ash-effect-white-s19621924/",
+    "desc": "물푸레나무 무늬/화이트 160x80 cm",
+    "note": "높이 고정형 750 mm. 사양 상충으로 제외한 TROTTEN 전동 책상과 다른 제품입니다.",
+    "verifiedAt": "2026-10-23",
+    "article": "19621924",
+    "image": "assets/trotten-fixed.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/trotten-desk-ash-effect-white__1517366_pe1012270_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다.",
+    "otherText": "1600 × 800 mm"
   }
 ]

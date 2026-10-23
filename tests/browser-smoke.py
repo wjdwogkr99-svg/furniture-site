@@ -13,7 +13,26 @@ with sync_playwright() as p:
         page.on('pageerror',lambda e: errors.append(str(e)))
         response=page.goto('http://127.0.0.1:5173/',wait_until='networkidle')
         assert response.status==200
-        assert page.locator('#productGrid .product').count()==12
+        assert page.locator('#fitOnly').is_checked()
+        assert page.locator('#productGrid .product').count()==5
+        page.locator('#height').fill('190')
+        assert '190 cm' in page.locator('#profileSummary').inner_text()
+        assert page.locator('#productGrid .product').count()==6
+        page.locator('#height').fill('139')
+        assert page.locator('.product').count()==0
+        assert '입력 범위' in page.locator('.empty').inner_text()
+        page.locator('#reset').click()
+        assert page.locator('.product').count()==5
+        page.locator('details.measure summary').click()
+        page.locator('#popliteal').fill('480')
+        page.locator('#buttock').fill('490')
+        page.locator('#elbow').fill('750')
+        assert page.locator('#modeBadge').inner_text()=='실측 기반 검토'
+        assert page.locator('[data-save="loberget"]').count()==1
+        assert page.locator('[data-save="millberget"]').count()==0
+        page.locator('#reset').click()
+        page.locator('#fitOnly').uncheck()
+        assert page.locator('#productGrid .product').count()==20
         assert page.evaluate('document.documentElement.scrollWidth <= innerWidth'), 'horizontal overflow'
         page.locator('#category [data-value="chair"]').click()
         page.locator('#budget').select_option('100000')
@@ -23,6 +42,7 @@ with sync_playwright() as p:
         assert all(v<=100000 for v in values) and values==sorted(values)
         page.locator('[data-save]').first.click()
         page.reload(wait_until='networkidle')
+        page.locator('#fitOnly').uncheck()
         assert page.locator('#savedCount').inner_text()=='1'
         page.locator('[data-compare]').nth(0).check()
         page.locator('[data-compare]').nth(1).check()
@@ -39,9 +59,10 @@ with sync_playwright() as p:
         page.locator('#reset').click()
         page.locator('#budget').select_option('100000')
         page.locator('#category [data-value="chair"]').click()
-        assert page.locator('.product').count()==2
+        page.locator('#fitOnly').uncheck()
+        assert page.locator('.product').count()==3
         page.locator('#sort').select_option('price-desc')
-        assert page.locator('.product h3').first.inner_text()=='ÖRFJÄLL'
+        assert page.locator('.product h3').first.inner_text()=='BLECKBERGET'
         page.locator('#category [data-value="all"]').click()
         page.locator('#budget').select_option('100000000')
         page.locator('#savedBtn').click()
@@ -49,6 +70,7 @@ with sync_playwright() as p:
         page.locator('[data-save]').click()
         assert page.locator('.empty').is_visible()
         page.reload(wait_until='networkidle')
+        page.locator('#fitOnly').uncheck()
         assert page.locator('#savedCount').inner_text()=='0'
         page.locator('#usage [data-value="lounge"]').click()
         page.locator('#fitOnly').check()
@@ -65,8 +87,11 @@ with sync_playwright() as p:
         page.locator('#closeModal').click()
         page.locator('#reset').click()
         page.locator('#fitOnly').uncheck()
+        for product_image in page.locator('#productGrid img').all():
+            product_image.scroll_into_view_if_needed()
+            page.wait_for_function('(img)=>img.complete && img.naturalWidth>0',arg=product_image.element_handle())
         assert not errors, errors
         page.screenshot(path=str(artifacts / f'{width}.png'),full_page=True)
-        print(json.dumps({'width':width,'products':12,'filter_sort_save_compare_profile':'passed','overflow':False,'js_errors':errors}))
+        print(json.dumps({'width':width,'products':20,'filter_sort_save_compare_profile':'passed','overflow':False,'js_errors':errors}))
         page.close()
     browser.close()
