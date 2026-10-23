@@ -72,3 +72,11 @@ IKEA 53종, 예산 필터, 가격순 정렬, 저장·비교 기능을 점검하�
 ## 제품 수집·갱신
 
 의자·책상·식탁·소파·라운지체어 53개 스냅샷이며 IKEA 전체 재고가 아닙니다. 사진 출처와 해시를 기록하고, 치수 확인이 가능한 의자·책상만 자동 추천합니다. `npm run catalog:refresh`로 재수집하고 `npm run test:import`로 수집기 검사를 실행합니다(Python 3.9 이상과 curl 필요). 매주 갱신 결과를 검토용 아티팩트로 만드는 GitHub Actions 정의를 추가했습니다. 병합·Actions 활성화 전에는 예약 실행되지 않습니다. 상세 범위와 한계는 `docs/CATALOG.md`를 참고하세요.
+
+## Cloudflare Workers 미리보기 설정
+
+루트 `wrangler.json`의 최상위 `previews: {}`로 `wrangler preview`를 활성화합니다. 이 저장소는 정적 사이트이므로 `assets.directory`는 `npm run build`가 만드는 `dist/`이며 별도 Worker 진입점이나 미리보기 바인딩은 필요하지 않습니다. `compatibility_date`는 Wrangler 4.152.0으로 검증한 `2026-10-19`입니다.
+
+계정 ID·운영 Worker 이름·도메인·라우트는 이 파일에 새로 지정하지 않습니다. 기존 Cloudflare CI의 Worker 이름 설정을 유지하세요. 로컬에서 미리보기를 배포해야 할 때에는 기존 Worker 이름을 `npx wrangler preview --worker-name <기존-Worker-이름>`으로 전달합니다. `preview --name`은 미리보기 이름이고 운영 Worker 이름과 다른 옵션입니다. 이 명령은 실제 미리보기 배포를 실행하므로 이번 수정 검증에서는 실행하지 않았습니다.
+
+이번 검증은 `npm test`, `npm run build`, 그리고 업로드하지 않는 `npx wrangler@4.152.0 deploy --dry-run --name fitform-config-check --outdir /tmp/fitform-wrangler-dry-run`으로 수행했습니다. `fitform-config-check`는 로컬 검사에만 사용하는 이름이며 배포 대상이 아닙니다. 별도 `env.preview`나 Pages 전용 설정은 추가하지 않았습니다.
