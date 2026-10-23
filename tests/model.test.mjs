@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {calculate,products,fit,filterProducts,overlaps} from '../public/model.mjs';
+const base={height:175,age:28,popliteal:null,buttock:null,elbow:null};
+test('실측값이 각 추정 항목을 우선한다',()=>{assert.deepEqual(calculate({...base,popliteal:440,buttock:500,elbow:700}),{seat:[420,440],depth:[440,460],desk:[680,700],measured:3});const partial=calculate({...base,popliteal:440});assert.deepEqual(partial.depth,calculate(base).depth)});
+test('부적절한 입력을 거절한다',()=>{for(const p of [{height:NaN},{age:17},{height:211},{age:101},{popliteal:240},{popliteal:500,elbow:450}])assert.throws(()=>calculate({...base,...p}))});
+test('맞닿는 범위만 교집합으로 취급한다',()=>{assert(overlaps([420,450],[450,580]));assert(!overlaps([420,449],[450,580]))});
+test('가격·카테고리·저장 필터가 함께 동작한다',()=>{const list=filterProducts(products,{category:'chair',budget:100000});assert.equal(list.length,2);assert(list.every(p=>p.type==='chair'&&p.price<=100000));assert.equal(list[0].id,'loberget');assert.equal(filterProducts(products,{savedOnly:true,saved:['micke']})[0].id,'micke')});
+test('낮은 가격순과 높은 가격순을 구분한다',()=>{assert.equal(filterProducts(products)[0].price,49900);assert.equal(filterProducts(products,{sort:'price-desc'})[0].price,299000)});
+test('사양 상충 제품과 라운지를 자동 적합도로 추천하지 않는다',()=>{const r=calculate(base);assert(!fit(products.find(p=>p.id==='trotten-electric'),r).pass);assert(!fit(products.find(p=>p.id==='poang'),r).pass);const matched=filterProducts(products,{fitOnly:true,result:r});assert(!matched.some(p=>p.type==='lounge'||p.id==='trotten-electric'));assert(matched.some(p=>p.id==='lagkapten-olov'))});
+test('MARKUS 한국 중 규격과 확인 가격을 보존한다',()=>{const p=products.find(p=>p.id==='markus');assert.deepEqual(p.height,[460,570]);assert.equal(p.price,199000);assert.equal(p.article,'50261151')});
+test('12개 제품 모두 출처·확인일·가격·치수 상태를 갖는다',()=>{assert.equal(products.length,12);assert.equal(new Set(products.map(p=>p.id)).size,12);for(const p of products){assert.match(p.source,/^https:\/\/www\.ikea\.com\/kr\/ko\/p\//);assert(p.price>0);assert.equal(p.verifiedAt,'2026-10-23');assert(p.height||p.heightStatus==='conflicting')}});
