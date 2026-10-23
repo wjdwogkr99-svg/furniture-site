@@ -23,9 +23,10 @@ export const products = [
     "note": "일반 회전의자. 장시간 업무용 착석 적합성은 별도 확인하세요.",
     "verifiedAt": "2026-10-23",
     "article": "09488572",
-    "image": "assets/loberget.jpg",
-    "imageSource": "https://www.ikea.com/pl/pl/images/products/loberget-malskaer-krzeslo-obrotowe-bialy-czarny__1047597_pe843451_s5.jpg?f=m",
-    "imageNote": "국가별 판매 페이지의 동일 모델 참고 사진. 치수·가격은 한국 판매 사양 기준."
+    "image": "assets/ikea/09488572.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/loberget-malskaer-swivel-chair-white-black__1110839_pe870604_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "orfjall",
@@ -51,9 +52,10 @@ export const products = [
     "note": "시트 높이 하한이 470 mm이므로 낮은 좌면이 필요한 사용자에게 주의가 필요합니다.",
     "verifiedAt": "2026-10-23",
     "article": "29416013",
-    "image": "assets/orfjall.jpg",
-    "imageSource": "https://www.ikea.com/pvid/1342473_fe003087.jpg?f=m",
-    "imageNote": "국가별 판매 페이지의 동일 모델 참고 사진. 치수·가격은 한국 판매 사양 기준."
+    "image": "assets/ikea/29416013.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/oerfjaell-swivel-chair-white-vissle-light-grey__0978008_pe813981_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "flintan",
@@ -79,9 +81,10 @@ export const products = [
     "note": "팔걸이를 포함한 조합 가격입니다. 공식 페이지에 사업장에 적합한 제품으로 안내되어 있습니다.",
     "verifiedAt": "2026-10-23",
     "article": "99424463",
-    "image": "assets/flintan.jpg",
-    "imageSource": "https://www.ikea.com.tw/dairyfarm/tw/images/213/1121377_PE874224_S5.jpg",
-    "imageNote": "국가별 판매 페이지의 동일 모델 참고 사진. 치수·가격은 한국 판매 사양 기준."
+    "image": "assets/ikea/99424463.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/flintan-office-chair-with-armrests-beige__1007238_pe825958_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "millberget",
@@ -107,9 +110,10 @@ export const products = [
     "note": "일반 회전의자. 가정용·업무용 용도 및 착석 시간을 확인하세요.",
     "verifiedAt": "2026-10-23",
     "article": "40489395",
-    "image": "assets/millberget.jpg",
-    "imageSource": "https://www.ikea.com/us/en/images/products/millberget-swivel-chair-murum-black__1026950_pe834640_s5.jpg?f=m",
-    "imageNote": "국가별 판매 페이지의 동일 모델 참고 사진. 치수·가격은 한국 판매 사양 기준."
+    "image": "assets/ikea/40489395.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/millberget-swivel-chair-murum-black__1020142_pe831799_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "markus",
@@ -135,8 +139,10 @@ export const products = [
     "note": "한국 판매 중(Medium) 규격입니다. 다른 국가의 Large 규격을 혼용하지 마세요.",
     "verifiedAt": "2026-10-23",
     "article": "50261151",
-    "image": null,
-    "imageSource": null
+    "image": "assets/ikea/50261151.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/markus-office-chair-vissle-dark-grey__0724714_pe734597_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "lagkapten-adils",
@@ -159,10 +165,11 @@ export const products = [
     "note": "상판 1개와 다리 4개 조합 가격. 높이 고정형이며 하부 여유를 확인하세요.",
     "verifiedAt": "2026-10-23",
     "article": "49416875",
-    "image": "assets/lagkapten-adils.jpg",
-    "imageSource": "https://www.ikea.com.tw/dairyfarm/tw/images/772/0977232_PE813475_S5.jpg",
+    "image": "assets/ikea/49416875.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/lagkapten-adils-desk-white-stained-oak-effect-white__0977232_pe813475_s5.jpg",
     "otherText": "1200 × 600 mm",
-    "imageNote": "국가별 판매 페이지의 동일 모델 참고 사진. 치수·가격은 한국 판매 사양 기준."
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "lagkapten-olov",
@@ -185,10 +192,11 @@ export const products = [
     "note": "다리 길이를 수동으로 조절하는 책상입니다. 전동 스탠딩 데스크와 구분하세요.",
     "verifiedAt": "2026-10-23",
     "article": "59416771",
-    "image": "assets/lagkapten-olov.jpg",
-    "imageSource": "https://www.ikea.com/ae/en/images/products/lagkapten-olov-desk-white__1013942_pe829476_s5.jpg?f=xl",
+    "image": "assets/ikea/59416771.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/lagkapten-olov-desk-white__0977603_pe813680_s5.jpg",
     "otherText": "1200 × 600 mm",
-    "imageNote": "국가별 판매 페이지의 동일 모델 참고 사진. 치수·가격은 한국 판매 사양 기준."
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "micke",
@@ -211,10 +219,11 @@ export const products = [
     "note": "가정용 검사 제품. 서랍과 수납부를 고려해 무릎·허벅지 여유를 별도로 확인하세요.",
     "verifiedAt": "2026-10-23",
     "article": "80354276",
-    "image": "assets/micke.jpg",
-    "imageSource": "https://ikeagreece.akamaized.net/images/1860x1860/5/variantimages/30213076/0.jpg",
+    "image": "assets/ikea/80354276.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/micke-desk-white__0736018_pe740345_s5.jpg",
     "otherText": "1050 × 500 mm",
-    "imageNote": "국가별 판매 페이지의 동일 모델 참고 사진. 치수·가격은 한국 판매 사양 기준."
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "trotten-electric",
@@ -234,8 +243,8 @@ export const products = [
     "note": "공식 본문은 690–1160 mm, 치수표는 710–1180 mm로 안내되어 높이 사양이 상충합니다. 판매처 확인 전 자동 적합도 판정을 하지 않습니다.",
     "verifiedAt": "2026-10-23",
     "article": "89621874",
-    "image": null,
-    "imageSource": null,
+    "image": "assets/ikea/89621874.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/trotten-desk-sit-stand-electric-white__1517359_pe1012263_s5.jpg",
     "otherText": "1200 × 700 mm",
     "heightStatus": "conflicting",
     "heightClaims": [
@@ -247,7 +256,9 @@ export const products = [
         710,
         1180
       ]
-    ]
+    ],
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "poang",
@@ -273,9 +284,10 @@ export const products = [
     "note": "암체어 프레임+쿠션 조합. 업무용 자세 계산과 분리하여 비교합니다.",
     "verifiedAt": "2026-10-23",
     "article": "19240788",
-    "image": "assets/poang.jpg",
-    "imageSource": "https://www.ikea.com/qa/en/images/products/poaeng-armchair-birch-veneer-knisa-light-beige__0837298_pe666936_s5.jpg?f=xxs",
-    "imageNote": "국가별 판매 페이지의 동일 모델 참고 사진. 치수·가격은 한국 판매 사양 기준."
+    "image": "assets/ikea/19240788.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/poaeng-armchair-birch-veneer-knisa-light-beige__0571500_pe666933_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "skalboda",
@@ -301,8 +313,10 @@ export const products = [
     "note": "낮은 고정 좌면. 일어서기와 휴식 자세를 확인하세요. 실내 전용 제품입니다.",
     "verifiedAt": "2026-10-23",
     "article": "00582036",
-    "image": null,
-    "imageSource": null
+    "image": "assets/ikea/00582036.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/skalboda-armchair-white__1322491_pe942188_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "ekenaset",
@@ -328,9 +342,10 @@ export const products = [
     "note": "가정용 검사 제품. 상업 공간의 사용 강도와 구매 조건을 별도 확인하세요.",
     "verifiedAt": "2026-10-23",
     "article": "10624333",
-    "image": "assets/ekenaset.jpg",
-    "imageSource": "https://www.ikea.com/fr/fr/images/products/ekenaeset-fauteuil-motif-chene-kilanda-beige-clair__1489627_pe1003901_s5.jpg",
-    "imageNote": "국가별 판매 페이지의 동일 모델 참고 사진. 치수·가격은 한국 판매 사양 기준."
+    "image": "assets/ikea/10624333.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/ekenaeset-armchair-oak-effect-kilanda-light-beige__1489627_pe1003901_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "alefjaell",
@@ -356,9 +371,10 @@ export const products = [
     "note": "한국 공식 치수표의 좌면 높이와 깊이를 비교합니다. 너비·팔걸이·착석감은 별도로 확인하세요. 좌면 깊이 조절 기능이 있어도 수치 범위가 확인되지 않아 치수표의 단일 깊이만 비교합니다.",
     "verifiedAt": "2026-10-23",
     "article": "60320225",
-    "image": "assets/alefjaell.jpg",
+    "image": "assets/ikea/60320225.jpg",
     "imageSource": "https://www.ikea.com/kr/ko/images/products/alefjaell-office-chair-grann-beige__0724710_pe734592_s5.jpg",
-    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다."
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "jaervfjaellet",
@@ -384,9 +400,10 @@ export const products = [
     "note": "한국 공식 치수표의 좌면 높이와 깊이를 비교합니다. 너비·팔걸이·착석감은 별도로 확인하세요. 좌면 깊이 조절 기능이 있어도 수치 범위가 확인되지 않아 치수표의 단일 깊이만 비교합니다.",
     "verifiedAt": "2026-10-23",
     "article": "20521853",
-    "image": "assets/jaervfjaellet.jpg",
+    "image": "assets/ikea/20521853.jpg",
     "imageSource": "https://www.ikea.com/kr/ko/images/products/jaervfjaellet-office-chair-with-armrests-grann-white__1078845_pe857303_s5.jpg",
-    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다."
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "styrspel",
@@ -412,9 +429,10 @@ export const products = [
     "note": "한국 공식 치수표의 좌면 높이와 깊이를 비교합니다. 너비·팔걸이·착석감은 별도로 확인하세요. 좌면 깊이 조절 기능이 있어도 수치 범위가 확인되지 않아 치수표의 단일 깊이만 비교합니다.",
     "verifiedAt": "2026-10-23",
     "article": "00522033",
-    "image": "assets/styrspel.jpg",
+    "image": "assets/ikea/00522033.jpg",
     "imageSource": "https://www.ikea.com/kr/ko/images/products/styrspel-gaming-chair-dark-grey-grey__1115362_pe872046_s5.jpg",
-    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다."
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "bleckberget",
@@ -440,9 +458,10 @@ export const products = [
     "note": "한국 공식 치수표의 좌면 높이와 깊이를 비교합니다. 너비·팔걸이·착석감은 별도로 확인하세요.",
     "verifiedAt": "2026-10-23",
     "article": "60573270",
-    "image": "assets/bleckberget.jpg",
+    "image": "assets/ikea/60573270.jpg",
     "imageSource": "https://www.ikea.com/kr/ko/images/products/bleckberget-swivel-chair-klovsta-white-grey__1305680_pe939572_s5.jpg",
-    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다."
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "hattefjaell",
@@ -468,9 +487,10 @@ export const products = [
     "note": "한국 공식 치수표의 좌면 높이와 깊이를 비교합니다. 너비·팔걸이·착석감은 별도로 확인하세요. 좌면 깊이 조절 기능이 있어도 수치 범위가 확인되지 않아 치수표의 단일 깊이만 비교합니다.",
     "verifiedAt": "2026-10-23",
     "article": "40538956",
-    "image": "assets/hattefjaell.jpg",
+    "image": "assets/ikea/40538956.jpg",
     "imageSource": "https://www.ikea.com/kr/ko/images/products/hattefjaell-office-chair-with-armrests-gunnared-beige-white__1019089_pe831297_s5.jpg",
-    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다."
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "renberget",
@@ -496,9 +516,10 @@ export const products = [
     "note": "한국 공식 치수표의 좌면 높이와 깊이를 비교합니다. 너비·팔걸이·착석감은 별도로 확인하세요.",
     "verifiedAt": "2026-10-23",
     "article": "20493548",
-    "image": "assets/renberget.jpg",
+    "image": "assets/ikea/20493548.jpg",
     "imageSource": "https://www.ikea.com/kr/ko/images/products/renberget-swivel-chair-bomstad-black__1020135_pe831794_s5.jpg",
-    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다."
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "dataStatus": "verified"
   },
   {
     "id": "mittzon",
@@ -521,10 +542,11 @@ export const products = [
     "note": "수동 높이 조절 650–850 mm. 하부 무릎·허벅지 여유를 별도로 확인하세요.",
     "verifiedAt": "2026-10-23",
     "article": "59525845",
-    "image": "assets/mittzon.jpg",
+    "image": "assets/ikea/59525845.jpg",
     "imageSource": "https://www.ikea.com/kr/ko/images/products/mittzon-desk-white__1205998_pe907332_s5.jpg",
-    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다.",
-    "otherText": "1200 × 600 mm"
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "otherText": "1200 × 600 mm",
+    "dataStatus": "verified"
   },
   {
     "id": "trotten-fixed",
@@ -547,9 +569,991 @@ export const products = [
     "note": "높이 고정형 750 mm. 사양 상충으로 제외한 TROTTEN 전동 책상과 다른 제품입니다.",
     "verifiedAt": "2026-10-23",
     "article": "19621924",
-    "image": "assets/trotten-fixed.jpg",
+    "image": "assets/ikea/19621924.jpg",
     "imageSource": "https://www.ikea.com/kr/ko/images/products/trotten-desk-ash-effect-white__1517366_pe1012270_s5.jpg",
-    "imageNote": "해당 IKEA 한국 판매 구성의 공식 제품 사진. 가격은 확인일 기준 스냅샷입니다.",
-    "otherText": "1600 × 800 mm"
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요.",
+    "otherText": "1600 × 800 mm",
+    "dataStatus": "verified"
+  },
+  {
+    "id": "ikea-40629046",
+    "article": "40629046",
+    "name": "UTKLASSNING",
+    "ko": "웃클라스닝",
+    "brand": "IKEA",
+    "type": "chair",
+    "price": 199000,
+    "currency": "KRW",
+    "height": [
+      470,
+      580
+    ],
+    "depth": [
+      420,
+      420
+    ],
+    "seatWidth": 500,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/utklassning-gaming-chair-graesnaes-anthracite-black-40629046/",
+    "desc": "그레스네스 앤트러싸이트/블랙",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/40629046.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/utklassning-gaming-chair-graesnaes-anthracite-black__1562249_pe1025951_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-10503449",
+    "article": "10503449",
+    "name": "SMÖRKULL",
+    "ko": "스뫼르쿨",
+    "brand": "IKEA",
+    "type": "chair",
+    "price": 169000,
+    "currency": "KRW",
+    "height": [
+      440,
+      560
+    ],
+    "depth": [
+      490,
+      490
+    ],
+    "seatWidth": 480,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/smoerkull-office-chair-with-armrests-graesnaes-dark-grey-10503449/",
+    "desc": "그레스네스 다크그레이",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/10503449.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/smoerkull-office-chair-with-armrests-graesnaes-dark-grey__1187096_pe899031_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-40576585",
+    "article": "40576585",
+    "name": "MULLSJÖ",
+    "ko": "물셰",
+    "brand": "IKEA",
+    "type": "chair",
+    "price": 149000,
+    "currency": "KRW",
+    "height": [
+      460,
+      540
+    ],
+    "depth": [
+      460,
+      460
+    ],
+    "seatWidth": 490,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/mullsjoe-swivel-chair-graesnaes-dark-grey-40576585/",
+    "desc": "그레스네스 다크그레이",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/40576585.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/mullsjoe-swivel-chair-graesnaes-dark-grey__1376248_pe960428_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-10503468",
+    "article": "10503468",
+    "name": "SMÄLLEN",
+    "ko": "스멜렌",
+    "brand": "IKEA",
+    "type": "chair",
+    "price": 35000,
+    "currency": "KRW",
+    "height": [
+      400,
+      520
+    ],
+    "depth": [
+      390,
+      390
+    ],
+    "seatWidth": 400,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/smaellen-swivel-chair-black-10503468/",
+    "desc": "블랙",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/10503468.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/smaellen-swivel-chair-black__1096271_pe864278_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-90586327",
+    "article": "90586327",
+    "name": "LÖPARBANA",
+    "ko": "뢰파르바나",
+    "brand": "IKEA",
+    "type": "chair",
+    "price": 149000,
+    "currency": "KRW",
+    "height": [
+      440,
+      540
+    ],
+    "depth": [
+      480,
+      480
+    ],
+    "seatWidth": 480,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/loeparbana-gaming-chair-vissle-dark-grey-90586327/",
+    "desc": "비슬레 다크그레이",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/90586327.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/loeparbana-gaming-chair-vissle-dark-grey__1368691_pe957864_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-90586252",
+    "article": "90586252",
+    "name": "BÄSTBOLL",
+    "ko": "베스트볼",
+    "brand": "IKEA",
+    "type": "chair",
+    "price": 499000,
+    "currency": "KRW",
+    "height": [
+      480,
+      590
+    ],
+    "depth": [
+      470,
+      470
+    ],
+    "seatWidth": 500,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/baestboll-gaming-chair-black-mjuk-black-90586252/",
+    "desc": "블랙/미우크 블랙",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/90586252.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/baestboll-gaming-chair-black-mjuk-black__1457819_pe992811_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-50522667",
+    "article": "50522667",
+    "name": "HUVUDSPELARE",
+    "ko": "후부스펠라레",
+    "brand": "IKEA",
+    "type": "chair",
+    "price": 119000,
+    "currency": "KRW",
+    "height": [
+      430,
+      530
+    ],
+    "depth": [
+      420,
+      420
+    ],
+    "seatWidth": 460,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/huvudspelare-gaming-chair-black-50522667/",
+    "desc": "블랙",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/50522667.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/huvudspelare-gaming-chair-black__1039672_pe840417_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-60574284",
+    "article": "60574284",
+    "name": "MATCHSPEL",
+    "ko": "맛크스펠",
+    "brand": "IKEA",
+    "type": "chair",
+    "price": 199000,
+    "currency": "KRW",
+    "height": [
+      470,
+      590
+    ],
+    "depth": [
+      480,
+      480
+    ],
+    "seatWidth": 540,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/matchspel-gaming-chair-bomstad-black-blue-60574284/",
+    "desc": "봄스타드 블랙/블루",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/60574284.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/matchspel-gaming-chair-bomstad-black-blue__1248930_pe923289_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-40500350",
+    "article": "40500350",
+    "name": "UTESPELARE",
+    "ko": "우테스펠라레",
+    "brand": "IKEA",
+    "type": "table",
+    "price": 199000,
+    "currency": "KRW",
+    "height": [
+      680,
+      780
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "otherText": "1600 × 800 mm",
+    "source": "https://www.ikea.com/kr/ko/p/utespelare-gaming-desk-black-40500350/",
+    "desc": "블랙 160x80 cm",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/40500350.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/utespelare-gaming-desk-black__0985179_pe816538_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-20361152",
+    "article": "20361152",
+    "name": "MALM",
+    "ko": "말름",
+    "brand": "IKEA",
+    "type": "table",
+    "price": 199000,
+    "currency": "KRW",
+    "height": [
+      730,
+      730
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "otherText": "1510 × 650 mm",
+    "source": "https://www.ikea.com/kr/ko/p/malm-desk-with-pull-out-panel-white-20361152/",
+    "desc": "화이트 151x65 cm",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/20361152.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/malm-desk-with-pull-out-panel-white__0735980_pe740314_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-80586399",
+    "article": "80586399",
+    "name": "UTVISNING",
+    "ko": "우트비스닝",
+    "brand": "IKEA",
+    "type": "table",
+    "price": 149000,
+    "currency": "KRW",
+    "height": [
+      820,
+      920
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "otherText": "1200 × 600 mm",
+    "source": "https://www.ikea.com/kr/ko/p/utvisning-gaming-desk-with-shelf-ash-effect-white-80586399/",
+    "desc": "물푸레나무 무늬/화이트 120x60 cm",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/80586399.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/utvisning-gaming-desk-with-shelf-ash-effect-white__1336684_pe947435_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-60557802",
+    "article": "60557802",
+    "name": "BOLLSIDAN",
+    "ko": "볼시단",
+    "brand": "IKEA",
+    "type": "table",
+    "price": 99900,
+    "currency": "KRW",
+    "height": [
+      650,
+      1030
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "otherText": "680 × 360 mm",
+    "source": "https://www.ikea.com/kr/ko/p/bollsidan-laptop-stand-white-60557802/",
+    "desc": "화이트 68x36 cm",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/60557802.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/bollsidan-laptop-stand-white__1163783_pe890330_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-00538265",
+    "article": "00538265",
+    "name": "TONSTAD",
+    "ko": "톤스타드",
+    "brand": "IKEA",
+    "type": "table",
+    "price": 199000,
+    "currency": "KRW",
+    "height": [
+      750,
+      750
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "otherText": "750 × 600 mm",
+    "source": "https://www.ikea.com/kr/ko/p/tonstad-desk-off-white-00538265/",
+    "desc": "오프화이트 75x60 cm",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/00538265.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/tonstad-desk-off-white__1329847_pe945277_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-50597083",
+    "article": "50597083",
+    "name": "ENKROKEN",
+    "ko": "엥크로켄",
+    "brand": "IKEA",
+    "type": "table",
+    "price": 79900,
+    "currency": "KRW",
+    "height": [
+      750,
+      750
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "otherText": "850 × 560 mm",
+    "source": "https://www.ikea.com/kr/ko/p/enkroken-desk-white-50597083/",
+    "desc": "화이트 85x56x75 cm",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/50597083.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/enkroken-desk-white__1515167_pe1011273_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-70493956",
+    "article": "70493956",
+    "name": "TORALD",
+    "ko": "토랄드",
+    "brand": "IKEA",
+    "type": "table",
+    "price": 35000,
+    "currency": "KRW",
+    "height": [
+      750,
+      750
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "otherText": "650 × 400 mm",
+    "source": "https://www.ikea.com/kr/ko/p/torald-desk-white-70493956/",
+    "desc": "화이트 65x40 cm",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/70493956.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/torald-desk-white__1055403_pe847976_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-00590791",
+    "article": "00590791",
+    "name": "LÄNGDHOPP",
+    "ko": "렝드호프",
+    "brand": "IKEA",
+    "type": "table",
+    "price": 129000,
+    "currency": "KRW",
+    "height": [
+      750,
+      870
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "otherText": "상판 크기 확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/laengdhopp-pull-out-desk-white-00590791/",
+    "desc": "화이트 90x39/71 cm",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/00590791.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/laengdhopp-pull-out-desk-white__1503658_pe1007941_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-70422394",
+    "article": "70422394",
+    "name": "NORDEN",
+    "ko": "노르덴",
+    "brand": "IKEA",
+    "type": "dining",
+    "price": 299000,
+    "currency": "KRW",
+    "height": [
+      740,
+      740
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "otherText": "상판 크기 확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/norden-gateleg-table-white-70422394/",
+    "desc": "화이트 26/89/152x80 cm",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/70422394.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/norden-gateleg-table-white__0737112_pe740886_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-90529469",
+    "article": "90529469",
+    "name": "PINNTORP",
+    "ko": "핀토르프",
+    "brand": "IKEA",
+    "type": "dining",
+    "price": 199000,
+    "currency": "KRW",
+    "height": [
+      750,
+      750
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "otherText": "상판 크기 확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/pinntorp-gateleg-table-light-brown-stained-white-stained-pine-90529469/",
+    "desc": "라이트 스테인 브라운/화이트스테인 소나무 67/124x75 cm",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/90529469.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/pinntorp-gateleg-table-light-brown-stained-white-stained-pine__1118101_pe872927_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-80600791",
+    "article": "80600791",
+    "name": "ÅLHULT",
+    "ko": "올훌트",
+    "brand": "IKEA",
+    "type": "dining",
+    "price": 249000,
+    "currency": "KRW",
+    "height": [
+      750,
+      750
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "otherText": "상판 크기 확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/alhult-extendable-table-black-brown-80600791/",
+    "desc": "블랙/브라운 120/170x80 cm",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/80600791.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/alhult-extendable-table-black-brown__1403275_pe969282_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-80416496",
+    "article": "80416496",
+    "name": "LISABO",
+    "ko": "리사보",
+    "brand": "IKEA",
+    "type": "dining",
+    "price": 249000,
+    "currency": "KRW",
+    "height": [
+      740,
+      740
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "otherText": "상판 크기 확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/lisabo-table-black-ash-veneer-80416496/",
+    "desc": "블랙/물푸레무늬목 105 cm",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/80416496.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/lisabo-table-black-ash-veneer__0631796_pe695205_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-40488560",
+    "article": "40488560",
+    "name": "NORDVIKEN",
+    "ko": "노르드비켄",
+    "brand": "IKEA",
+    "type": "dining",
+    "price": 599000,
+    "currency": "KRW",
+    "height": [
+      750,
+      750
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "otherText": "상판 크기 확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/nordviken-extendable-table-antique-stain-40488560/",
+    "desc": "앤티크 스테인 152/223x95 cm",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/40488560.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/nordviken-extendable-table-antique-stain__1482451_pe1001019_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-80565759",
+    "article": "80565759",
+    "name": "SKANSNÄS",
+    "ko": "스칸스네스",
+    "brand": "IKEA",
+    "type": "dining",
+    "price": 1190000,
+    "currency": "KRW",
+    "height": [
+      750,
+      750
+    ],
+    "depth": null,
+    "seatWidth": null,
+    "spec": "상판 높이",
+    "other": "상판 크기",
+    "otherText": "상판 크기 확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/skansnaes-extendable-table-brown-beech-veneer-80565759/",
+    "desc": "브라운 너도밤나무/무늬목 150/205x90 cm",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/80565759.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/skansnaes-extendable-table-brown-beech-veneer__1262376_pe927062_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-10489009",
+    "article": "10489009",
+    "name": "GLOSTAD",
+    "ko": "글로스타드",
+    "brand": "IKEA",
+    "type": "sofa",
+    "price": 150000,
+    "currency": "KRW",
+    "height": [
+      410,
+      410
+    ],
+    "depth": [
+      540,
+      540
+    ],
+    "seatWidth": 1140,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/glostad-2-seat-sofa-knisa-dark-grey-10489009/",
+    "desc": "크니사 다크그레이",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/10489009.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/glostad-2-seat-sofa-knisa-dark-grey__1577178_pe1033002_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-80519526",
+    "article": "80519526",
+    "name": "KIVIK",
+    "ko": "쉬비크",
+    "brand": "IKEA",
+    "type": "sofa",
+    "price": 1290000,
+    "currency": "KRW",
+    "height": [
+      450,
+      450
+    ],
+    "depth": [
+      600,
+      600
+    ],
+    "seatWidth": 1800,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/kivik-3-seat-sofa-grann-bomstad-black-80519526/",
+    "desc": "그란/봄스타드 블랙",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/80519526.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/kivik-3-seat-sofa-grann-bomstad-black__0137863_pe296632_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-90618502",
+    "article": "90618502",
+    "name": "GULLVALLA",
+    "ko": "굴발라",
+    "brand": "IKEA",
+    "type": "sofa",
+    "price": 299000,
+    "currency": "KRW",
+    "height": [
+      420,
+      420
+    ],
+    "depth": [
+      480,
+      480
+    ],
+    "seatWidth": 1600,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/gullvalla-3-seat-sofa-silkeryd-dark-grey-beige-90618502/",
+    "desc": "실케뤼드 다크그레이-베이지",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/90618502.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/gullvalla-3-seat-sofa-silkeryd-dark-grey-beige__1578444_pe1034087_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-90618516",
+    "article": "90618516",
+    "name": "SALTMYRAN",
+    "ko": "살트뮈란",
+    "brand": "IKEA",
+    "type": "sofa",
+    "price": 299000,
+    "currency": "KRW",
+    "height": [
+      430,
+      430
+    ],
+    "depth": [
+      520,
+      520
+    ],
+    "seatWidth": 1580,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/saltmyran-3-seat-sofa-oereryd-grey-beige-90618516/",
+    "desc": "외레뤼드 그레이베이지",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/90618516.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/saltmyran-3-seat-sofa-oereryd-grey-beige__1576103_pe1032228_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-20619072",
+    "article": "20619072",
+    "name": "LILLESÄTER",
+    "ko": "릴레세테르",
+    "brand": "IKEA",
+    "type": "sofa",
+    "price": 899000,
+    "currency": "KRW",
+    "height": [
+      440,
+      440
+    ],
+    "depth": [
+      650,
+      650
+    ],
+    "seatWidth": 1660,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/lillesaeter-3-seat-sofa-axvall-off-white-20619072/",
+    "desc": "악스발 오프화이트",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/20619072.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/lillesaeter-3-seat-sofa-axvall-off-white__1576111_pe1032230_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-10399315",
+    "article": "10399315",
+    "name": "KLIPPAN",
+    "ko": "클리판",
+    "brand": "IKEA",
+    "type": "sofa",
+    "price": 399000,
+    "currency": "KRW",
+    "height": [
+      430,
+      430
+    ],
+    "depth": [
+      540,
+      540
+    ],
+    "seatWidth": null,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/klippan-2-seat-sofa-bomstad-black-10399315/",
+    "desc": "봄스타드 블랙",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/10399315.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/klippan-2-seat-sofa-bomstad-black__1576940_pe1032837_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-10628944",
+    "article": "10628944",
+    "name": "STRANDMON",
+    "ko": "스트란드몬",
+    "brand": "IKEA",
+    "type": "lounge",
+    "price": 349000,
+    "currency": "KRW",
+    "height": [
+      450,
+      450
+    ],
+    "depth": [
+      540,
+      540
+    ],
+    "seatWidth": 490,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/strandmon-wing-chair-talliden-beige-brown-10628944/",
+    "desc": "탈리덴 베이지/브라운",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/10628944.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/strandmon-wing-chair-talliden-beige-brown__1543840_pe1018955_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-00523612",
+    "article": "00523612",
+    "name": "OSKARSHAMN",
+    "ko": "오스카르스함",
+    "brand": "IKEA",
+    "type": "lounge",
+    "price": 299000,
+    "currency": "KRW",
+    "height": [
+      440,
+      440
+    ],
+    "depth": [
+      540,
+      540
+    ],
+    "seatWidth": 540,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/oskarshamn-wing-chair-tibbleby-beige-grey-00523612/",
+    "desc": "티블레뷔 베이지/그레이",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/00523612.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/oskarshamn-wing-chair-tibbleby-beige-grey__1118157_pe872954_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-70531656",
+    "article": "70531656",
+    "name": "HAVBERG",
+    "ko": "하브베리",
+    "brand": "IKEA",
+    "type": "lounge",
+    "price": 499000,
+    "currency": "KRW",
+    "height": [
+      410,
+      410
+    ],
+    "depth": [
+      540,
+      540
+    ],
+    "seatWidth": 640,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/havberg-swivel-easy-chair-grann-bomstad-golden-brown-70531656/",
+    "desc": "그란/봄스타드 골드브라운",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/70531656.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/havberg-swivel-easy-chair-grann-bomstad-golden-brown__1070880_pe854782_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-20424135",
+    "article": "20424135",
+    "name": "VEDBO",
+    "ko": "베드보",
+    "brand": "IKEA",
+    "type": "lounge",
+    "price": 299000,
+    "currency": "KRW",
+    "height": [
+      440,
+      440
+    ],
+    "depth": [
+      480,
+      480
+    ],
+    "seatWidth": 450,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/vedbo-high-back-armchair-gunnared-dark-grey-20424135/",
+    "desc": "군나레드 다크그레이",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/20424135.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/vedbo-high-back-armchair-gunnared-dark-grey__0512775_pe638684_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
+  },
+  {
+    "id": "ikea-50586616",
+    "article": "50586616",
+    "name": "BRÄNNBOLL",
+    "ko": "브렌볼",
+    "brand": "IKEA",
+    "type": "lounge",
+    "price": 199000,
+    "currency": "KRW",
+    "height": [
+      430,
+      430
+    ],
+    "depth": [
+      610,
+      610
+    ],
+    "seatWidth": 650,
+    "spec": "좌면 높이",
+    "other": "좌면 깊이",
+    "otherText": "확인 필요",
+    "source": "https://www.ikea.com/kr/ko/p/braennboll-gaming-lounge-chair-knisa-bright-blue-50586616/",
+    "desc": "크니사 브라이트블루",
+    "note": "한국 공식 치수표 기준. 조절 수치 범위가 없으면 단일 표기값만 비교하며, 너비·하부 여유·착석감은 별도 확인하세요.",
+    "heightStatus": "verified",
+    "verifiedAt": "2026-10-23",
+    "dataStatus": "verified",
+    "image": "assets/ikea/50586616.jpg",
+    "imageSource": "https://www.ikea.com/kr/ko/images/products/braennboll-gaming-lounge-chair-knisa-bright-blue__1336691_pe947443_s5.jpg",
+    "imageNote": "해당 IKEA 한국 판매 페이지의 공식 제품 사진. 색상·구성은 제품 상세를 확인하세요."
   }
 ];

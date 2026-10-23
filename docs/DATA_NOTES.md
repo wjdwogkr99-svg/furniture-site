@@ -41,9 +41,11 @@
 - Humanscale 자세 참고: https://www.humanscale.com/userfiles/files/Humanscale-Consulting-WFH-Ergonomics-Setup-Guide.pdf
 - Codex Cloud 공식 작업 흐름: https://learn.chatgpt.com/docs/cloud
 
-## 사진 출처
+## 사진 출처와 확장
 
-`products.mjs`의 `imageSource`가 각 참고 제품 이미지의 출처다. 같은 모델이어도 국가별 사진은 쿠션·발·색상·구성이 다를 수 있으므로 한국 치수 근거로 쓰지 않는다. 9개 제품은 실제 공식 IKEA 이미지, 나머지 3개는 실제 제품 이미지가 아니라는 설명을 붙인 도식이다. 기존 hero와 업무 공간 사진은 Humanscale 공간 무드 이미지로 유지했다. 자료의 출처 표시는 사용 허락을 의미하지 않으므로 공개 서비스 전 사용 조건을 확인한다.
+현재 목록은 53개 제품이다. 추가 제품과 갱신 가격·치수는 products.json / public/products.mjs를 기준으로 확인한다. 위 표는 과거 12개·20개 단계의 확인 이력이며 현재 전체 목록은 아니다.
+
+모든 제품 사진은 해당 IKEA 한국 상품 페이지에서 상품번호를 대조한 공식 사진으로 교체했다. 해외 참고 사진과 도식을 제품 카드에 사용하지 않는다. 사진 파일·원본 출처·다운로드 URL·해시는 ikea-import-report.json에 기록했다. 수집 범위, 실패·제외 기록, 갱신 지침은 CATALOG.md를 참고한다. 기존 hero·공간 무드 사진은 디자인 기준을 유지한다.
 
 ## 사람 치수 계산
 
@@ -55,7 +57,7 @@
 
 ## 검증 이력
 
-- `npm test`: 13개 통과
+- `npm test`: 15개 통과
 - `npm run build`: 성공
 - 브라우저 UI QA: docs/QA.md 참조
 - 추가 사이트 배포: 수행하지 않음

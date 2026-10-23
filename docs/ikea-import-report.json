@@ -1,0 +1,572 @@
+{
+  "checkedAt": "2026-10-23",
+  "categories": [
+    {
+      "type": "chair",
+      "url": "https://www.ikea.com/kr/ko/cat/desk-chairs-20652/",
+      "listed": 24,
+      "reportedTotal": 64
+    },
+    {
+      "type": "table",
+      "url": "https://www.ikea.com/kr/ko/cat/desks-computer-desks-20649/",
+      "listed": 24,
+      "reportedTotal": 249
+    },
+    {
+      "type": "dining",
+      "url": "https://www.ikea.com/kr/ko/cat/dining-tables-21825/",
+      "listed": 24,
+      "reportedTotal": 68
+    },
+    {
+      "type": "sofa",
+      "url": "https://www.ikea.com/kr/ko/cat/sofas-fu003/",
+      "listed": 24,
+      "reportedTotal": 200
+    },
+    {
+      "type": "lounge",
+      "url": "https://www.ikea.com/kr/ko/cat/armchairs-16239/",
+      "listed": 24,
+      "reportedTotal": 114
+    }
+  ],
+  "failures": [],
+  "excluded": [
+    {
+      "source": "https://www.ikea.com/kr/ko/p/loberget-malskaer-swivel-chair-white-s59445467/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/annasen-floor-protector-90489388/",
+      "error": "KRW price missing"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/eldberget-malskaer-swivel-chair-beige-white-s39444398/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/langfjaell-conference-chair-gunnared-beige-white-s99252367/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/linnmon-adils-table-white-s09246408/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/moerbylanga-table-oak-veneer-brown-stained-80365802/",
+      "error": "Not a complete table"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/lagkapten-adils-desk-white-s09416759/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/dalshult-table-white-birch-s29416857/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/vihals-table-white-white-s29578519/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/kallax-lagkapten-desk-combination-white-s89483453/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/sandsberg-table-black-s09420394/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/docksta-table-white-white-s79324997/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/bergshyttan-table-tinted-effect-birch-veneer-60608236/",
+      "error": "Not a complete table"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/skogsta-dining-table-acacia-black-40419265/",
+      "error": "Not a complete table"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/stockholm-2025-table-oak-veneer-oak-veneer-s39606588/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/stenared-dining-table-stone-effect-quartz-bamboo-60467887/",
+      "error": "KRW price missing"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/landskrona-3-seat-sofa-grann-bomstad-dark-beige-wood-s19275773/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/soederhamn-3-seat-section-viarp-beige-brown-s69305616/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/ektorp-3-seat-sofa-mangbyn-brown-multicolour-s99619757/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/dyvlinge-swivel-easy-chair-kelinge-green-70570836/",
+      "error": "Not complete seating"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/vimle-4-seat-sofa-with-chaise-longue-gunnared-medium-grey-s99399487/",
+      "error": "Matching Korean product SKU not found; redirect or unavailable product"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/sotenaes-armchair-hakebo-red-90581914/",
+      "error": "Not complete seating"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/ikea-ps-2026-easy-chair-birch-80621072/",
+      "error": "Not complete seating"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/tornsborg-armchair-bed-naggen-beige-pine-40586099/",
+      "error": "Not complete seating"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/froeset-easy-chair-white-stained-oak-veneer-00423561/",
+      "error": "Not complete seating"
+    },
+    {
+      "source": "https://www.ikea.com/kr/ko/p/persbol-armchair-brown-red-tibbleby-beige-grey-50523327/",
+      "error": "Not complete seating"
+    }
+  ],
+  "images": [
+    {
+      "article": "09488572",
+      "productUrl": "https://www.ikea.com/kr/ko/p/loberget-malskaer-swivel-chair-white-black-s09488572/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/loberget-malskaer-swivel-chair-white-black__1110839_pe870604_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/loberget-malskaer-swivel-chair-white-black__1110839_pe870604_s5.jpg?f=m",
+      "localPath": "assets/ikea/09488572.jpg",
+      "sha256": "3681485f270a7299d207f71406fcbe96785fb661251c8a66f7b9effd88e0de25"
+    },
+    {
+      "article": "29416013",
+      "productUrl": "https://www.ikea.com/kr/ko/p/oerfjaell-swivel-chair-white-vissle-light-grey-s29416013/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/oerfjaell-swivel-chair-white-vissle-light-grey__0978008_pe813981_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/oerfjaell-swivel-chair-white-vissle-light-grey__0978008_pe813981_s5.jpg?f=m",
+      "localPath": "assets/ikea/29416013.jpg",
+      "sha256": "ca3bdc767a855583e8336b7f9b933217cfa3c796c19f2af05afd9a82cbf73bc0"
+    },
+    {
+      "article": "99424463",
+      "productUrl": "https://www.ikea.com/kr/ko/p/flintan-office-chair-with-armrests-beige-s99424463/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/flintan-office-chair-with-armrests-beige__1007238_pe825958_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/flintan-office-chair-with-armrests-beige__1007238_pe825958_s5.jpg?f=m",
+      "localPath": "assets/ikea/99424463.jpg",
+      "sha256": "2b658b5ecb6e43cda98413d0b0b94f71f29ff9170816074088abf70f5c4574c0"
+    },
+    {
+      "article": "40489395",
+      "productUrl": "https://www.ikea.com/kr/ko/p/millberget-swivel-chair-murum-black-40489395/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/millberget-swivel-chair-murum-black__1020142_pe831799_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/millberget-swivel-chair-murum-black__1020142_pe831799_s5.jpg?f=m",
+      "localPath": "assets/ikea/40489395.jpg",
+      "sha256": "847672306dfd193f14595914d07950e9abd7f25f8df75471b18c84afc433033d"
+    },
+    {
+      "article": "50261151",
+      "productUrl": "https://www.ikea.com/kr/ko/p/markus-office-chair-vissle-dark-grey-50261151/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/markus-office-chair-vissle-dark-grey__0724714_pe734597_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/markus-office-chair-vissle-dark-grey__0724714_pe734597_s5.jpg?f=m",
+      "localPath": "assets/ikea/50261151.jpg",
+      "sha256": "96939dd82c9164a1a7032a9c5789a854f92fe268430ac9ebe9c459759e6cdbb4"
+    },
+    {
+      "article": "49416875",
+      "productUrl": "https://www.ikea.com/kr/ko/p/lagkapten-adils-desk-white-stained-oak-effect-white-s49416875/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/lagkapten-adils-desk-white-stained-oak-effect-white__0977232_pe813475_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/lagkapten-adils-desk-white-stained-oak-effect-white__0977232_pe813475_s5.jpg?f=m",
+      "localPath": "assets/ikea/49416875.jpg",
+      "sha256": "71fe76b069a20bc2aa9b5dadb702ad664cd55c19054df2ff5799ce283366f5f9"
+    },
+    {
+      "article": "59416771",
+      "productUrl": "https://www.ikea.com/kr/ko/p/lagkapten-olov-desk-white-s59416771/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/lagkapten-olov-desk-white__0977603_pe813680_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/lagkapten-olov-desk-white__0977603_pe813680_s5.jpg?f=m",
+      "localPath": "assets/ikea/59416771.jpg",
+      "sha256": "6fc13789b1e6ba9f7dabdfb7136581967b4843fde6938b174a1c102c91b6cb8a"
+    },
+    {
+      "article": "80354276",
+      "productUrl": "https://www.ikea.com/kr/ko/p/micke-desk-white-80354276/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/micke-desk-white__0736018_pe740345_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/micke-desk-white__0736018_pe740345_s5.jpg?f=m",
+      "localPath": "assets/ikea/80354276.jpg",
+      "sha256": "ff2002e75008d4b870e792c68f9d6864c6c278e631c1c61227575cef321f0c36"
+    },
+    {
+      "article": "89621874",
+      "productUrl": "https://www.ikea.com/kr/ko/p/trotten-desk-sit-stand-electric-white-s89621874/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/trotten-desk-sit-stand-electric-white__1517359_pe1012263_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/trotten-desk-sit-stand-electric-white__1517359_pe1012263_s5.jpg?f=m",
+      "localPath": "assets/ikea/89621874.jpg",
+      "sha256": "6c93bafdfbb89368dd49180e929bea2e647f23d14b2af101e02c7f8bb015ed34"
+    },
+    {
+      "article": "19240788",
+      "productUrl": "https://www.ikea.com/kr/ko/p/poaeng-armchair-birch-veneer-knisa-light-beige-s19240788/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/poaeng-armchair-birch-veneer-knisa-light-beige__0571500_pe666933_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/poaeng-armchair-birch-veneer-knisa-light-beige__0571500_pe666933_s5.jpg?f=m",
+      "localPath": "assets/ikea/19240788.jpg",
+      "sha256": "eaf9f12ef57a8f0da7e586a2812831a12f44b2ddfc3027a46a33e67136924fc1"
+    },
+    {
+      "article": "00582036",
+      "productUrl": "https://www.ikea.com/kr/ko/p/skalboda-armchair-white-00582036/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/skalboda-armchair-white__1322491_pe942188_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/skalboda-armchair-white__1322491_pe942188_s5.jpg?f=m",
+      "localPath": "assets/ikea/00582036.jpg",
+      "sha256": "04896c7c9342b5c761bcad0a6a058d2ab7d816a042e0c8bcb6cbacc043f57283"
+    },
+    {
+      "article": "10624333",
+      "productUrl": "https://www.ikea.com/kr/ko/p/ekenaeset-armchair-oak-effect-kilanda-light-beige-10624333/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/ekenaeset-armchair-oak-effect-kilanda-light-beige__1489627_pe1003901_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/ekenaeset-armchair-oak-effect-kilanda-light-beige__1489627_pe1003901_s5.jpg?f=m",
+      "localPath": "assets/ikea/10624333.jpg",
+      "sha256": "f8d2c0f3aa7e6243edd01a1c1ff290ac4c8f0d32c16291caa7d0bedc0beb67ea"
+    },
+    {
+      "article": "60320225",
+      "productUrl": "https://www.ikea.com/kr/ko/p/alefjaell-office-chair-grann-beige-60320225/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/alefjaell-office-chair-grann-beige__0724710_pe734592_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/alefjaell-office-chair-grann-beige__0724710_pe734592_s5.jpg?f=m",
+      "localPath": "assets/ikea/60320225.jpg",
+      "sha256": "8d1271df9e6bfbade5f205d266ca83c88870662a8a261e6099012059b10930c1"
+    },
+    {
+      "article": "20521853",
+      "productUrl": "https://www.ikea.com/kr/ko/p/jaervfjaellet-office-chair-with-armrests-grann-white-20521853/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/jaervfjaellet-office-chair-with-armrests-grann-white__1078845_pe857303_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/jaervfjaellet-office-chair-with-armrests-grann-white__1078845_pe857303_s5.jpg?f=m",
+      "localPath": "assets/ikea/20521853.jpg",
+      "sha256": "3d7543c8390708c1b512f2d44942a11809291b727710664d73291a37bc19a8b4"
+    },
+    {
+      "article": "00522033",
+      "productUrl": "https://www.ikea.com/kr/ko/p/styrspel-gaming-chair-dark-grey-grey-00522033/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/styrspel-gaming-chair-dark-grey-grey__1115362_pe872046_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/styrspel-gaming-chair-dark-grey-grey__1115362_pe872046_s5.jpg?f=m",
+      "localPath": "assets/ikea/00522033.jpg",
+      "sha256": "a66748685beb955d8fc4a7a784c9a3a65360240939e6e09ee176ff3bf534d2c1"
+    },
+    {
+      "article": "60573270",
+      "productUrl": "https://www.ikea.com/kr/ko/p/bleckberget-swivel-chair-klovsta-white-grey-60573270/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/bleckberget-swivel-chair-klovsta-white-grey__1305680_pe939572_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/bleckberget-swivel-chair-klovsta-white-grey__1305680_pe939572_s5.jpg?f=m",
+      "localPath": "assets/ikea/60573270.jpg",
+      "sha256": "3fb9f1332bd93bbc5c72cf10ce02f6f73ea18f647a39376de9ed24d6d49483d9"
+    },
+    {
+      "article": "40538956",
+      "productUrl": "https://www.ikea.com/kr/ko/p/hattefjaell-office-chair-with-armrests-gunnared-beige-white-40538956/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/hattefjaell-office-chair-with-armrests-gunnared-beige-white__1019089_pe831297_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/hattefjaell-office-chair-with-armrests-gunnared-beige-white__1019089_pe831297_s5.jpg?f=m",
+      "localPath": "assets/ikea/40538956.jpg",
+      "sha256": "2522e77ff3941a9b6cd82c6ca4db1b97f11a19318dd7ceedd70a49fc0719a766"
+    },
+    {
+      "article": "20493548",
+      "productUrl": "https://www.ikea.com/kr/ko/p/renberget-swivel-chair-bomstad-black-20493548/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/renberget-swivel-chair-bomstad-black__1020135_pe831794_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/renberget-swivel-chair-bomstad-black__1020135_pe831794_s5.jpg?f=m",
+      "localPath": "assets/ikea/20493548.jpg",
+      "sha256": "b0e75d2439f998a75613203815cd09c323b553ce7793d703163c4742f585f354"
+    },
+    {
+      "article": "59525845",
+      "productUrl": "https://www.ikea.com/kr/ko/p/mittzon-desk-white-s59525845/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/mittzon-desk-white__1205998_pe907332_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/mittzon-desk-white__1205998_pe907332_s5.jpg?f=m",
+      "localPath": "assets/ikea/59525845.jpg",
+      "sha256": "348081066687a1b8e52d7c647823a5bc50d82b1ea6fd5970ed96850fb8285209"
+    },
+    {
+      "article": "19621924",
+      "productUrl": "https://www.ikea.com/kr/ko/p/trotten-desk-ash-effect-white-s19621924/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/trotten-desk-ash-effect-white__1517366_pe1012270_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/trotten-desk-ash-effect-white__1517366_pe1012270_s5.jpg?f=m",
+      "localPath": "assets/ikea/19621924.jpg",
+      "sha256": "d2bdf958feac87eddf8c1ba102776554649b8c3e12f311e6c42aa0423a081946"
+    },
+    {
+      "article": "40629046",
+      "productUrl": "https://www.ikea.com/kr/ko/p/utklassning-gaming-chair-graesnaes-anthracite-black-40629046/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/utklassning-gaming-chair-graesnaes-anthracite-black__1562249_pe1025951_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/utklassning-gaming-chair-graesnaes-anthracite-black__1562249_pe1025951_s5.jpg?f=m",
+      "localPath": "assets/ikea/40629046.jpg",
+      "sha256": "8d19340c16d2a9e2985d69109d7153a8fcf2c0a835b4a9c1685a394bd5fc0b28"
+    },
+    {
+      "article": "10503449",
+      "productUrl": "https://www.ikea.com/kr/ko/p/smoerkull-office-chair-with-armrests-graesnaes-dark-grey-10503449/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/smoerkull-office-chair-with-armrests-graesnaes-dark-grey__1187096_pe899031_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/smoerkull-office-chair-with-armrests-graesnaes-dark-grey__1187096_pe899031_s5.jpg?f=m",
+      "localPath": "assets/ikea/10503449.jpg",
+      "sha256": "56ed96d49aec26c4a83e7941e9a1e240f6a9a4569c67e65d28b9ea62dd5750c7"
+    },
+    {
+      "article": "40576585",
+      "productUrl": "https://www.ikea.com/kr/ko/p/mullsjoe-swivel-chair-graesnaes-dark-grey-40576585/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/mullsjoe-swivel-chair-graesnaes-dark-grey__1376248_pe960428_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/mullsjoe-swivel-chair-graesnaes-dark-grey__1376248_pe960428_s5.jpg?f=m",
+      "localPath": "assets/ikea/40576585.jpg",
+      "sha256": "2f3cec389a6fa266bb45f90ffbc8f150adeab090414f0d36e5cf79690ac8913b"
+    },
+    {
+      "article": "10503468",
+      "productUrl": "https://www.ikea.com/kr/ko/p/smaellen-swivel-chair-black-10503468/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/smaellen-swivel-chair-black__1096271_pe864278_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/smaellen-swivel-chair-black__1096271_pe864278_s5.jpg?f=m",
+      "localPath": "assets/ikea/10503468.jpg",
+      "sha256": "2eb3ec2c12647c2b416161849be5e6cbc5caef769c85bee4bf785e6aa848fdde"
+    },
+    {
+      "article": "90586327",
+      "productUrl": "https://www.ikea.com/kr/ko/p/loeparbana-gaming-chair-vissle-dark-grey-90586327/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/loeparbana-gaming-chair-vissle-dark-grey__1368691_pe957864_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/loeparbana-gaming-chair-vissle-dark-grey__1368691_pe957864_s5.jpg?f=m",
+      "localPath": "assets/ikea/90586327.jpg",
+      "sha256": "b26a172b49b2bc9f2c4c831858287e192f9458445dbefbd6e077dbe993655f1e"
+    },
+    {
+      "article": "90586252",
+      "productUrl": "https://www.ikea.com/kr/ko/p/baestboll-gaming-chair-black-mjuk-black-90586252/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/baestboll-gaming-chair-black-mjuk-black__1457819_pe992811_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/baestboll-gaming-chair-black-mjuk-black__1457819_pe992811_s5.jpg?f=m",
+      "localPath": "assets/ikea/90586252.jpg",
+      "sha256": "3d13cf7aa613dddeef0708a53357dca4f5c39453dfc054f70a5a8877a255e89b"
+    },
+    {
+      "article": "50522667",
+      "productUrl": "https://www.ikea.com/kr/ko/p/huvudspelare-gaming-chair-black-50522667/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/huvudspelare-gaming-chair-black__1039672_pe840417_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/huvudspelare-gaming-chair-black__1039672_pe840417_s5.jpg?f=m",
+      "localPath": "assets/ikea/50522667.jpg",
+      "sha256": "f204fefd049f274600ae325862cb8bd7307a0faa059d10feb9409bf209b37d61"
+    },
+    {
+      "article": "60574284",
+      "productUrl": "https://www.ikea.com/kr/ko/p/matchspel-gaming-chair-bomstad-black-blue-60574284/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/matchspel-gaming-chair-bomstad-black-blue__1248930_pe923289_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/matchspel-gaming-chair-bomstad-black-blue__1248930_pe923289_s5.jpg?f=m",
+      "localPath": "assets/ikea/60574284.jpg",
+      "sha256": "52bc34da2a70fd06496332804eebc31b78dc4caf534cc8b16a8f955e717b3990"
+    },
+    {
+      "article": "40500350",
+      "productUrl": "https://www.ikea.com/kr/ko/p/utespelare-gaming-desk-black-40500350/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/utespelare-gaming-desk-black__0985179_pe816538_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/utespelare-gaming-desk-black__0985179_pe816538_s5.jpg?f=m",
+      "localPath": "assets/ikea/40500350.jpg",
+      "sha256": "89c921e2609de2fb1818a1a20477242d0ac3bac0612eb9eb1b9eabe5d327d31f"
+    },
+    {
+      "article": "20361152",
+      "productUrl": "https://www.ikea.com/kr/ko/p/malm-desk-with-pull-out-panel-white-20361152/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/malm-desk-with-pull-out-panel-white__0735980_pe740314_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/malm-desk-with-pull-out-panel-white__0735980_pe740314_s5.jpg?f=m",
+      "localPath": "assets/ikea/20361152.jpg",
+      "sha256": "f0e57da43972413fe3317e035a8f33f7d86fff9b5d298193c35649e6ff44f4ee"
+    },
+    {
+      "article": "80586399",
+      "productUrl": "https://www.ikea.com/kr/ko/p/utvisning-gaming-desk-with-shelf-ash-effect-white-80586399/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/utvisning-gaming-desk-with-shelf-ash-effect-white__1336684_pe947435_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/utvisning-gaming-desk-with-shelf-ash-effect-white__1336684_pe947435_s5.jpg?f=m",
+      "localPath": "assets/ikea/80586399.jpg",
+      "sha256": "e1b505127721e3b5572554e14e7f74820a4587578088b92d9f28144e95265ac7"
+    },
+    {
+      "article": "60557802",
+      "productUrl": "https://www.ikea.com/kr/ko/p/bollsidan-laptop-stand-white-60557802/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/bollsidan-laptop-stand-white__1163783_pe890330_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/bollsidan-laptop-stand-white__1163783_pe890330_s5.jpg?f=m",
+      "localPath": "assets/ikea/60557802.jpg",
+      "sha256": "65ad5233141e565b7713fc504e98cad2999276455f662ec3e361bb72c4325ffa"
+    },
+    {
+      "article": "00538265",
+      "productUrl": "https://www.ikea.com/kr/ko/p/tonstad-desk-off-white-00538265/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/tonstad-desk-off-white__1329847_pe945277_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/tonstad-desk-off-white__1329847_pe945277_s5.jpg?f=m",
+      "localPath": "assets/ikea/00538265.jpg",
+      "sha256": "7602b913a47348fcc908ae517de175a8f6e5842505787727bd19478ceb1ebed3"
+    },
+    {
+      "article": "50597083",
+      "productUrl": "https://www.ikea.com/kr/ko/p/enkroken-desk-white-50597083/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/enkroken-desk-white__1515167_pe1011273_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/enkroken-desk-white__1515167_pe1011273_s5.jpg?f=m",
+      "localPath": "assets/ikea/50597083.jpg",
+      "sha256": "e4b98268eafe0f36a028f0811229d985cc5851acb75cb928da4cb4bb6666c39d"
+    },
+    {
+      "article": "70493956",
+      "productUrl": "https://www.ikea.com/kr/ko/p/torald-desk-white-70493956/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/torald-desk-white__1055403_pe847976_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/torald-desk-white__1055403_pe847976_s5.jpg?f=m",
+      "localPath": "assets/ikea/70493956.jpg",
+      "sha256": "2ce99d014be87e3480023c9ece0d4d4433ef1785ae39bea97140efe65ba872da"
+    },
+    {
+      "article": "00590791",
+      "productUrl": "https://www.ikea.com/kr/ko/p/laengdhopp-pull-out-desk-white-00590791/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/laengdhopp-pull-out-desk-white__1503658_pe1007941_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/laengdhopp-pull-out-desk-white__1503658_pe1007941_s5.jpg?f=m",
+      "localPath": "assets/ikea/00590791.jpg",
+      "sha256": "62af16bc2c9898a9e2a211f00d9eae4f196b7b4d4e0088e0bb0a84372f50f269"
+    },
+    {
+      "article": "70422394",
+      "productUrl": "https://www.ikea.com/kr/ko/p/norden-gateleg-table-white-70422394/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/norden-gateleg-table-white__0737112_pe740886_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/norden-gateleg-table-white__0737112_pe740886_s5.jpg?f=m",
+      "localPath": "assets/ikea/70422394.jpg",
+      "sha256": "359ba853b034a3c2d129610d1bf51ec0ae2e4c5c0bdb3e8ce2c7402dd7b47eca"
+    },
+    {
+      "article": "90529469",
+      "productUrl": "https://www.ikea.com/kr/ko/p/pinntorp-gateleg-table-light-brown-stained-white-stained-pine-90529469/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/pinntorp-gateleg-table-light-brown-stained-white-stained-pine__1118101_pe872927_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/pinntorp-gateleg-table-light-brown-stained-white-stained-pine__1118101_pe872927_s5.jpg?f=m",
+      "localPath": "assets/ikea/90529469.jpg",
+      "sha256": "580f5238fe27ae17720f7c4d82a25463cc3a78b735faeb549e2de215b1a548d4"
+    },
+    {
+      "article": "80600791",
+      "productUrl": "https://www.ikea.com/kr/ko/p/alhult-extendable-table-black-brown-80600791/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/alhult-extendable-table-black-brown__1403275_pe969282_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/alhult-extendable-table-black-brown__1403275_pe969282_s5.jpg?f=m",
+      "localPath": "assets/ikea/80600791.jpg",
+      "sha256": "f4627f2aeb5b12a86a6d85d3ab1f8fc6e5c700227b82c999f1c2394020fcb69e"
+    },
+    {
+      "article": "80416496",
+      "productUrl": "https://www.ikea.com/kr/ko/p/lisabo-table-black-ash-veneer-80416496/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/lisabo-table-black-ash-veneer__0631796_pe695205_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/lisabo-table-black-ash-veneer__0631796_pe695205_s5.jpg?f=m",
+      "localPath": "assets/ikea/80416496.jpg",
+      "sha256": "f8b8f904219bca7a10a2e464fe24c0affc45cf80e399285e42709d1a1a970e16"
+    },
+    {
+      "article": "40488560",
+      "productUrl": "https://www.ikea.com/kr/ko/p/nordviken-extendable-table-antique-stain-40488560/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/nordviken-extendable-table-antique-stain__1482451_pe1001019_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/nordviken-extendable-table-antique-stain__1482451_pe1001019_s5.jpg?f=m",
+      "localPath": "assets/ikea/40488560.jpg",
+      "sha256": "f9121e6a0fd66bf40805ddac501969ee02d88d20d59194fc841c09b547cb02f2"
+    },
+    {
+      "article": "80565759",
+      "productUrl": "https://www.ikea.com/kr/ko/p/skansnaes-extendable-table-brown-beech-veneer-80565759/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/skansnaes-extendable-table-brown-beech-veneer__1262376_pe927062_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/skansnaes-extendable-table-brown-beech-veneer__1262376_pe927062_s5.jpg?f=m",
+      "localPath": "assets/ikea/80565759.jpg",
+      "sha256": "ff7450f343715551b40e17ee512ba1039feaea688cdca3cb4e95c33d82cccd35"
+    },
+    {
+      "article": "10489009",
+      "productUrl": "https://www.ikea.com/kr/ko/p/glostad-2-seat-sofa-knisa-dark-grey-10489009/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/glostad-2-seat-sofa-knisa-dark-grey__1577178_pe1033002_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/glostad-2-seat-sofa-knisa-dark-grey__1577178_pe1033002_s5.jpg?f=m",
+      "localPath": "assets/ikea/10489009.jpg",
+      "sha256": "084f25f9b62b5f3cb69071ad74544efb4c67164184731edc1f51adf4e39855ec"
+    },
+    {
+      "article": "80519526",
+      "productUrl": "https://www.ikea.com/kr/ko/p/kivik-3-seat-sofa-grann-bomstad-black-80519526/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/kivik-3-seat-sofa-grann-bomstad-black__0137863_pe296632_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/kivik-3-seat-sofa-grann-bomstad-black__0137863_pe296632_s5.jpg?f=m",
+      "localPath": "assets/ikea/80519526.jpg",
+      "sha256": "937a5a57452f4b1db295d723893054efa5a96fdc4a31df86fcda9e1afd7a55a4"
+    },
+    {
+      "article": "90618502",
+      "productUrl": "https://www.ikea.com/kr/ko/p/gullvalla-3-seat-sofa-silkeryd-dark-grey-beige-90618502/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/gullvalla-3-seat-sofa-silkeryd-dark-grey-beige__1578444_pe1034087_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/gullvalla-3-seat-sofa-silkeryd-dark-grey-beige__1578444_pe1034087_s5.jpg?f=m",
+      "localPath": "assets/ikea/90618502.jpg",
+      "sha256": "d54e6250ff63542680d5ba769f7529f6ed46c734fa5611c55df52876b64c53b3"
+    },
+    {
+      "article": "90618516",
+      "productUrl": "https://www.ikea.com/kr/ko/p/saltmyran-3-seat-sofa-oereryd-grey-beige-90618516/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/saltmyran-3-seat-sofa-oereryd-grey-beige__1576103_pe1032228_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/saltmyran-3-seat-sofa-oereryd-grey-beige__1576103_pe1032228_s5.jpg?f=m",
+      "localPath": "assets/ikea/90618516.jpg",
+      "sha256": "8c6c8020c59436de951395f99c4dea2c1f3823cc28b5500d9908d49efb856846"
+    },
+    {
+      "article": "20619072",
+      "productUrl": "https://www.ikea.com/kr/ko/p/lillesaeter-3-seat-sofa-axvall-off-white-20619072/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/lillesaeter-3-seat-sofa-axvall-off-white__1576111_pe1032230_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/lillesaeter-3-seat-sofa-axvall-off-white__1576111_pe1032230_s5.jpg?f=m",
+      "localPath": "assets/ikea/20619072.jpg",
+      "sha256": "c4d383b35c21a2562a96267145ddd92df2af8f4332ba3eedec021d78ca80b2d6"
+    },
+    {
+      "article": "10399315",
+      "productUrl": "https://www.ikea.com/kr/ko/p/klippan-2-seat-sofa-bomstad-black-10399315/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/klippan-2-seat-sofa-bomstad-black__1576940_pe1032837_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/klippan-2-seat-sofa-bomstad-black__1576940_pe1032837_s5.jpg?f=m",
+      "localPath": "assets/ikea/10399315.jpg",
+      "sha256": "c3e2540d2bb5877afdc44c72f8e3f41da3ec6f6de97cc25b3cbefd49b8f50014"
+    },
+    {
+      "article": "10628944",
+      "productUrl": "https://www.ikea.com/kr/ko/p/strandmon-wing-chair-talliden-beige-brown-10628944/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/strandmon-wing-chair-talliden-beige-brown__1543840_pe1018955_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/strandmon-wing-chair-talliden-beige-brown__1543840_pe1018955_s5.jpg?f=m",
+      "localPath": "assets/ikea/10628944.jpg",
+      "sha256": "7bdac83b2bcec53292f3d2f9f1b1e575a04355406256c2a58ee5d1c64659e802"
+    },
+    {
+      "article": "00523612",
+      "productUrl": "https://www.ikea.com/kr/ko/p/oskarshamn-wing-chair-tibbleby-beige-grey-00523612/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/oskarshamn-wing-chair-tibbleby-beige-grey__1118157_pe872954_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/oskarshamn-wing-chair-tibbleby-beige-grey__1118157_pe872954_s5.jpg?f=m",
+      "localPath": "assets/ikea/00523612.jpg",
+      "sha256": "7aa7720776dbb4bffd4038520534b7fe91217e31d6f9176a9786b81f0cdb8dc1"
+    },
+    {
+      "article": "70531656",
+      "productUrl": "https://www.ikea.com/kr/ko/p/havberg-swivel-easy-chair-grann-bomstad-golden-brown-70531656/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/havberg-swivel-easy-chair-grann-bomstad-golden-brown__1070880_pe854782_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/havberg-swivel-easy-chair-grann-bomstad-golden-brown__1070880_pe854782_s5.jpg?f=m",
+      "localPath": "assets/ikea/70531656.jpg",
+      "sha256": "34bdc8b115e7e98320def58bc3566bc4a97ccacaa66e512ffd4ca7000b53fb78"
+    },
+    {
+      "article": "20424135",
+      "productUrl": "https://www.ikea.com/kr/ko/p/vedbo-high-back-armchair-gunnared-dark-grey-20424135/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/vedbo-high-back-armchair-gunnared-dark-grey__0512775_pe638684_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/vedbo-high-back-armchair-gunnared-dark-grey__0512775_pe638684_s5.jpg?f=m",
+      "localPath": "assets/ikea/20424135.jpg",
+      "sha256": "7ab6b88f288a0bf304e37a60a5a96bd671aecb274a202699abb356c97a68a4a0"
+    },
+    {
+      "article": "50586616",
+      "productUrl": "https://www.ikea.com/kr/ko/p/braennboll-gaming-lounge-chair-knisa-bright-blue-50586616/",
+      "imageUrl": "https://www.ikea.com/kr/ko/images/products/braennboll-gaming-lounge-chair-knisa-bright-blue__1336691_pe947443_s5.jpg",
+      "downloadUrl": "https://www.ikea.com/kr/ko/images/products/braennboll-gaming-lounge-chair-knisa-bright-blue__1336691_pe947443_s5.jpg?f=m",
+      "localPath": "assets/ikea/50586616.jpg",
+      "sha256": "ba08564274dcd82ef4b47a76246515b976abcecd8a380d90f430d60f0afba9b8"
+    }
+  ],
+  "coverage": "Public category listing snapshots; not a complete IKEA inventory. Color-only variants are not expanded.",
+  "productCount": 53,
+  "imageCount": 53,
+  "missingImageCount": 0
+}
