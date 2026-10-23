@@ -10,14 +10,17 @@ export function calculate(p){
 export {products} from './products.mjs';
 export const overlaps=(a,b)=>Math.max(a[0],b[0])<=Math.min(a[1],b[1]);
 export function fit(p,r,usage='work'){
- if(!p.height)return {pass:false,label:'사양 확인 필요',detail:'공식 높이 정보가 상충하여 자동 비교에서 제외됩니다.'};
+ if(p.dataStatus==='unavailable')return {pass:false,label:'판매 정보 재확인 필요',detail:'최근 공식 페이지 조회에 실패해 자동 비교에서 제외됩니다. 가격은 마지막 확인 시점 기준입니다.'};
+ if(['sofa','dining'].includes(p.type))return {pass:false,label:'개별 용도 확인',detail:'소파·식탁은 업무용 신체 치수 계산으로 자동 판정하지 않습니다.'};
+ if(!p.height)return {pass:false,label:'사양 확인 필요',detail:p.heightStatus==='conflicting'?'공식 높이 정보가 상충하여 자동 비교에서 제외됩니다.':'공식 좌면·상판 높이가 확인되지 않아 자동 비교에서 제외됩니다.'};
  if(usage==='lounge'||p.type==='lounge')return {pass:false,label:'개별 착석 확인',detail:'라운지 자세의 적합도는 별도 확인이 필요합니다.'};
+ if(p.type==='chair'&&!p.depth)return {pass:false,label:'사양 확인 필요',detail:'좌면 깊이 정보가 없어 자동 비교에서 제외됩니다.'};
  const height=overlaps(p.height,p.type==='table'?r.desk:r.seat);
- const depth=p.depth?overlaps(p.depth,r.depth):true;
+ const depth=p.type==='table'||Boolean(p.depth&&overlaps(p.depth,r.depth));
  return {pass:height&&depth,label:height&&depth?'비교 범위 겹침':'범위 재검토',detail:p.type==='table'?(height?'상판 높이 범위가 겹칩니다. 하부 여유도 확인하세요.':'목표 작업면 높이와 겹치지 않습니다.'):`좌면 높이 ${height?'겹침':'불일치'} · 깊이 ${depth?'겹침':'불일치'}`};
 }
 
 export function filterProducts(products,options={}){
- const {category='all',budget=Infinity,sort='price-asc',fitOnly=false,result,usage='work',savedOnly=false,saved=[]}=options;
+ const {category='all',budget=Infinity,sort='price-asc',result,fitOnly=Boolean(result),usage='work',savedOnly=false,saved=[]}=options;
  return products.filter(p=>(category==='all'||p.type===category)&&p.price<=budget&&(!savedOnly||saved.includes(p.id))&&(!fitOnly||(result&&fit(p,result,usage).pass))).sort((a,b)=>sort==='price-desc'?b.price-a.price:sort==='name'?a.name.localeCompare(b.name):a.price-b.price);
 }

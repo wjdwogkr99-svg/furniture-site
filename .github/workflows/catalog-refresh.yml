@@ -1,0 +1,30 @@
+name: Review IKEA catalog refresh
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 1'
+permissions:
+  contents: read
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: npm run catalog:refresh
+      - run: npm test && npm run test:import && npm run build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ikea-catalog-for-review
+          path: |
+            public/products.mjs
+            public/assets/ikea/
+            docs/products.json
+            docs/ikea-import-report.json
+          retention-days: 14
